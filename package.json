@@ -1,0 +1,24 @@
+{
+  "name": "react-native-template-rntemp",
+  "version": "1.0.0",
+  "description": "react-native typescript generic template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChengGPBU/react-native-template-rntemp.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "redux"
+  ],
+  "author": "chengguang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChengGPBU/react-native-template-rntemp/issues"
+  },
+  "homepage": "https://github.com/ChengGPBU/react-native-template-rntemp#readme"
+}
