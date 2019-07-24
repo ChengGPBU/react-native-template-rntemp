@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "react-native typescript generic template",
   "scripts": {
+    "prepublishOnly": "npm version $TRAVIS_TAG"
   },
   "repository": {
     "type": "git",
