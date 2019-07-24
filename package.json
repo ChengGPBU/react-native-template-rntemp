@@ -4,7 +4,7 @@
   "description": "react-native typescript generic template",
   "scripts": {
     "test": "standard setup.js",
-    "prepublishOnly": "npm version $TRAVIS_TAG",
+    "prepublishOnly": "npm --no-git-tag-version version $TRAVIS_TAG",
     "install": "node setup.js"
   },
   "repository": {
